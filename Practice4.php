@@ -1,5 +1,5 @@
 <?php
- //write a php function countOccurrences that takes two array and return an assiciative array where the key are the unique values from the input array and the values are their counts.
+ //write a php function countOccurrences that takes two array and return an associative array where the key are the unique values from the input array and the values are their counts.
 
  function countOccurrences(){
  
